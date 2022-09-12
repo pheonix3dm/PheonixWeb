@@ -26,6 +26,9 @@ a {
 .content {
   text-align: justify;
 }
+.head{
+  color: #ff4a17;
+}
 a:hover {
   color: #ff724a;
   text-decoration: none;
@@ -472,7 +475,7 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   text-transform: uppercase;
-  color: #fff;
+  color: #ff4a17;
 }
 
 #hero h2 {
