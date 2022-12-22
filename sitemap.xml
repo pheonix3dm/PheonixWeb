@@ -1,36 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-<loc>http://www.pheonix3dm.com/index.html</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/1.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/2.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/3.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/4.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/5.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/6.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/7.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/8.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/assets/img/port/9.jpg</loc>
-</url>
-<url>
-<loc>http://www.pheonix3dm.com/tel:+917904327878</loc>
-</url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!--
+     created with Free Online Sitemap Generator www.xml-sitemaps.com 
+    -->
+    <url>
+    <loc>http://pheonix3dm.com/</loc>
+    <lastmod>2022-12-22T08:26:20+00:00</lastmod>
+    <priority>1.00</priority>
+    </url>
+    <url>
+    <loc>http://pheonix3dm.com/index.html</loc>
+    <lastmod>2022-12-22T08:26:20+00:00</lastmod>
+    <priority>0.80</priority>
+    </url>
+    </urlset>
