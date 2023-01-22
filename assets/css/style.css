@@ -162,7 +162,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 90px;
 }
 
 /*--------------------------------------------------------------
@@ -471,15 +471,15 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 56px;
   text-transform: uppercase;
-  color: #ff4a17;
+  color: #f8f5f5;
 }
 
 #hero h2 {
-  color: #eee;
+  color: rgb(231, 24, 65);
   margin-bottom: 50px;
   font-size: 24px;
 }
