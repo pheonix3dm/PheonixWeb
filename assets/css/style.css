@@ -145,16 +145,13 @@ h6 {
   padding: 0;
 }
 
-.topbar .contact-info i {
-  font-style: normal;
-  color: #fff;
-  line-height: 0;
-}
+
 
 .topbar .contact-info i a,
 .topbar .contact-info i span {
   padding-left: 5px;
   color: #fff;
+  font-style: normal;
 }
 
 @media (max-width: 575px) {
@@ -165,15 +162,6 @@ h6 {
   }
 }
 
-.topbar .contact-info i a {
-  line-height: 0;
-  transition: 0.3s;
-}
-
-.topbar .contact-info i a:hover {
-  color: #fff;
-  text-decoration: underline;
-}
 
 .topbar .social-links a {
   color: rgba(255, 255, 255, 0.7);
@@ -194,7 +182,6 @@ h6 {
 }
 
 .header.sticked {
-  position: fixed;
   top: 0;
   right: 0;
   left: 0;
@@ -215,10 +202,6 @@ h6 {
   letter-spacing: 0.8px;
   color: rgb(248, 245, 246);
   font-family: var(--font-primary);
-}
-
-.header .logo h1 span {
-  color: #5979f9;
 }
 
 .sticked-header-offset {
