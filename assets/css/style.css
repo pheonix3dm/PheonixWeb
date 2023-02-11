@@ -175,8 +175,10 @@ h6 {
 }
 
 .header {
+  position:sticky;
+  top: 0;
   transition: all 0.5s;
-  z-index: 997;
+  z-index: 999;
   height: 90px;
   background-color: rgb(10, 9, 9);
 }
