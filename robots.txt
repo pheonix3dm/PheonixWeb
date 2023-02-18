@@ -1,6 +1,3 @@
 user-agent: *
-disallow: /downloads/
-
-user-agent: magicsearchbot
-disallow: /uploads/
+Allow: /
 Sitemap: http://www.pheonix3dm.com/sitemap.xml
