@@ -611,14 +611,14 @@ section {
 }
 
 .section-title h2 {
-  font-size: 14px;
+  font-size: 25px;
   font-weight: 500;
   padding: 0;
   line-height: 1px;
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #5c8eb0;
+  color: #000203;
   font-family: "Poppins", sans-serif;
 }
 
