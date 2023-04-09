@@ -497,7 +497,7 @@ section {
 
 #hero:before {
   content: "";
-  background: rgba(13, 20, 26, 0.7);
+  background-color: transparent;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -516,6 +516,7 @@ section {
   align-items: center;
   flex-direction: column;
   text-align: center;
+  background-color: transparent;
 }
 
 #hero h1 {
