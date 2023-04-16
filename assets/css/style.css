@@ -203,7 +203,6 @@ h6 {
   font-weight: 600;
   letter-spacing: 0.8px;
   color: rgb(248, 245, 246);
-  font-family: var(--font-primary);
 }
 
 .sticked-header-offset {
@@ -533,7 +532,6 @@ section {
 }
 
 #hero .btn-get-started {
-  font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 14px;
@@ -618,7 +616,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #000203;
-  font-family: "Poppins", sans-serif;
+  
 }
 
 .section-title h2::after {
@@ -636,7 +634,6 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
   color: #263d4d;
 }
 
@@ -655,7 +652,7 @@ section {
 
 .about .count-box i {
   display: block;
-  font-size: 48px;
+  font-size: 40px;
   color: #a1bdd1;
   float: left;
   line-height: 0;
@@ -673,7 +670,6 @@ section {
 .about .count-box p {
   padding: 5px 0 0 0;
   margin: 0 0 0 60px;
-  font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
   color: #2e4b5e;
@@ -684,8 +680,7 @@ section {
   display: block;
   margin-top: 20px;
   color: #2e4b5e;
-  font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  font-size: 14px;
   transition: ease-in-out 0.3s;
 }
 
@@ -694,12 +689,12 @@ section {
 }
 
 .about .content {
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .about .content h3 {
   font-weight: 700;
-  font-size: 24px;
+  font-size: 18px;
   color: #263d4d;
 }
 
@@ -715,7 +710,7 @@ section {
 }
 
 .about .content ul i {
-  font-size: 24px;
+  font-size: 18px;
   color: #ff4a17;
   position: absolute;
   left: 0;
@@ -1037,7 +1032,7 @@ section {
 .services .icon-box i {
   float: left;
   color: #5c8eb0;
-  font-size: 40px;
+  font-size: 18px;
   line-height: 0;
 }
 
@@ -1635,7 +1630,6 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
   color: #fff;
 }
 
