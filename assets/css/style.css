@@ -486,8 +486,6 @@ section {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  
-  background-size: cover;
   position: relative;
   padding: 0;
 }
