@@ -605,19 +605,18 @@ section {
   padding-bottom: 40px;
 }
 
-.section-title h2 {
+.section-title h3 {
   font-size: 25px;
   font-weight: 500;
   padding: 0;
   line-height: 1px;
   margin: 0 0 5px 0;
   letter-spacing: 2px;
-  text-transform: uppercase;
   color: #000203;
   
 }
 
-.section-title h2::after {
+.section-title h3::after {
   content: "";
   width: 120px;
   height: 1px;
