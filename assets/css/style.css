@@ -43,6 +43,9 @@ h6 {
   font-family: "SF Pro Text","SF Pro Icons",sans-serif;
 }
 
+a.card-link{
+  color:orangered;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
