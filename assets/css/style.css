@@ -608,7 +608,7 @@ section {
   padding-bottom: 40px;
 }
 
-.section-title h3 {
+.section-title h5 {
   font-size: 25px;
   font-weight: 500;
   padding: 0;
@@ -619,7 +619,7 @@ section {
   
 }
 
-.section-title h3::after {
+.section-title h5::after {
   content: "";
   width: 120px;
   height: 1px;
@@ -1748,6 +1748,8 @@ section {
 #footer .credits a {
   transition: 0.3s;
 }
+
+
 
 /*--------------------------------------------------------------
 # Team
