@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "SF Pro Text","SF Pro Icons",sans-serif;
+  font-family: Fira Sans;
   color: #444444;
 }
 
@@ -40,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "SF Pro Text","SF Pro Icons",sans-serif;
+  font-family: Fira Sans;
 }
 
 a.card-link{
@@ -200,8 +200,7 @@ a.card-link{
 }
 
 .header .logo h1 {
-  font-size: 14px;
-  text-transform: uppercase;
+  font-size: 16px;
   margin: 0;
   font-weight: 600;
   letter-spacing: 0.8px;
@@ -250,9 +249,7 @@ section {
   position: relative;
   justify-content: space-between;
   padding: 0 3px;
-  font-size: 14px;
-  text-transform: uppercase;
-  font-weight: 600;
+  font-size: 16px;
   color: rgba(255, 255, 255, 0.9);
   white-space: nowrap;
   transition: 0.3s;
