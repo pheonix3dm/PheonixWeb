@@ -598,7 +598,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f0f4f8;
+  background-color: white;
 }
 
 .section-title {
@@ -650,7 +650,7 @@ section {
 .about .count-box i {
   display: block;
   font-size: 40px;
-  color: #a1bdd1;
+  color: white;
   float: left;
   line-height: 0;
 }
@@ -692,7 +692,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 18px;
-  color: #263d4d;
+  color: orangered;
 }
 
 .about .content ul {
